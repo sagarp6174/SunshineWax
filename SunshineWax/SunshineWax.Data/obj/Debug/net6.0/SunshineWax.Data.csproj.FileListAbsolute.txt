@@ -1,0 +1,5 @@
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.csproj.AssemblyReference.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.AssemblyInfoInputs.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.AssemblyInfo.cs
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.csproj.CoreCompileInputs.cache

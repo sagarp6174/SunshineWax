@@ -1,0 +1,8 @@
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.csproj.AssemblyReference.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.AssemblyInfoInputs.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.AssemblyInfo.cs
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.csproj.CoreCompileInputs.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.MvcApplicationPartsAssemblyInfo.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.RazorAssemblyInfo.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax\obj\Debug\net6.0\SunshineWax.RazorAssemblyInfo.cs

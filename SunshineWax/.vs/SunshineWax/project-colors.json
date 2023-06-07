@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2225e811-c062-40ba-9384-f23ed020c3c6": {
+      "ProjectGuid": "2225e811-c062-40ba-9384-f23ed020c3c6",
+      "DisplayName": "SunshineWax",
+      "ColorIndex": 0
+    },
+    "8fee6f59-0bb4-4dd9-8401-4430d571877a": {
+      "ProjectGuid": "8fee6f59-0bb4-4dd9-8401-4430d571877a",
+      "DisplayName": "SunshineWax.Models",
+      "ColorIndex": 1
+    },
+    "5ea545ae-34e8-4c86-92fa-414762cb670e": {
+      "ProjectGuid": "5ea545ae-34e8-4c86-92fa-414762cb670e",
+      "DisplayName": "SunshineWax.Data",
+      "ColorIndex": 2
+    },
+    "49182efd-9088-425a-8da0-0d754e271d19": {
+      "ProjectGuid": "49182efd-9088-425a-8da0-0d754e271d19",
+      "DisplayName": "SunshineWax.Utilities",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
