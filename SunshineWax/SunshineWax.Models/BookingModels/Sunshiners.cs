@@ -8,6 +8,12 @@ namespace SunshineWax.Models.BookingModels
         public int Id { get; set; }
         [Required]
         public string? Name { get; set; }
+        [Required]
+        [DataType(DataType.EmailAddress)]
+        public string Email { get; set; }
+        [Required]
+        [DataType(DataType.PhoneNumber)]
+        public string Phone { get; set; }
         public List<Days>? AvailableDays { get; set; }
     }
 }

@@ -1,0 +1,26 @@
+﻿@model Services
+<div class="container">
+    <form method="post">
+        <div>
+            <label>Name</label>
+            <input asp-for="Name" class="form-control"/>
+        </div>
+        <div>
+            <label>Estimated Time</label>
+            <input asp-for="EstimatedTime" class="form-control"/>
+        </div>
+        <div>
+            <label>Price</label>
+            <input asp-for="Price" class="form-control"/>
+        </div>
+        <div class="row">
+             <div class="col-md-6">
+                 <button type="submit" class="btn btn-primary">Add Service</button>
+             </div>
+              <div class="col-md-6">
+                 <a asp-controller="Home" asp-action="Services" class="btn btn-outline-primary">Back </a>
+             </div>
+        </div>
+       
+    </form>
+</div>

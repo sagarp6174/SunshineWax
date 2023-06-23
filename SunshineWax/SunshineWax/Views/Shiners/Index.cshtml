@@ -1,0 +1,49 @@
+﻿@model  List<Sunshiners> 
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h3>Sunshiners</h3>
+        </div>  
+        <div class="col-6 text-end">
+            @if(ViewData["allowUser"] == "yes")
+            {
+                <a asp-controller="Home" asp-action="AddServices" asp-route-id= class="btn btn-primary text-end"><i class="bi bi-plus-lg"></i></a>                
+            }                        
+        </div>
+    </div>
+    <div>
+        <table class="table table-bordered table-stripped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Phone Number</th>
+                </tr>              
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Phone</td>                        
+                        @if(ViewData["allowUser"] == "yes")
+                        {
+                            <td>
+                            <div class="w-75 btn-group">
+                                <a asp-controller="Shiners" asp-action="EditShiners" class="btn btn-primary"><i class="bi bi-pencil-square"> </i>Edit</a>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="w-75 btn-group">
+                                <a asp-controller="Shiners" asp-action="DeleteShiners" class="btn btn-danger"><i class="bi bi-trash3-fill"></i> Delete</a>
+                            </div>
+                        </td>
+                        }   
+                        <td><a asp-controller="Days" asp-action="Index" class="btn btn-primary">Select & Next</a></td>
+                    </tr>                    
+                }               
+            </tbody>
+        </table>
+    </div>
+
+</div>

@@ -2,7 +2,6 @@ C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\bin\Debug\net6.0\Sun
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\bin\Debug\net6.0\SunshineWax.Models.dll
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\bin\Debug\net6.0\ref\SunshineWax.Models.dll
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\bin\Debug\net6.0\SunshineWax.Models.pdb
-C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\obj\Debug\net6.0\SunshineWax.Models.csproj.AssemblyReference.cache
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\obj\Debug\net6.0\SunshineWax.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\obj\Debug\net6.0\SunshineWax.Models.AssemblyInfoInputs.cache
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Models\obj\Debug\net6.0\SunshineWax.Models.AssemblyInfo.cs

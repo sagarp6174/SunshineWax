@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SunshineWax.Data.Data;
+using SunshineWax.Data.Repositories.IRepository;
+using SunshineWax.Data.Repositories.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("SunshineWax")));
+
+builder.Services.AddScoped<IServiceRepository, ServiceRepository>();
+builder.Services.AddScoped<IShinersRepository, ShinersRepository>();
+
 
 var app = builder.Build();
 

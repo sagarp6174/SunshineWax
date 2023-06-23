@@ -1,5 +1,17 @@
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Data.deps.json
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Data.runtimeconfig.json
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Data.dll
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\ref\SunshineWax.Data.dll
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Data.pdb
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Models.dll
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\bin\Debug\net6.0\SunshineWax.Models.pdb
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.csproj.AssemblyReference.cache
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.AssemblyInfoInputs.cache
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.AssemblyInfo.cs
 C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.csproj.CoreCompileInputs.cache
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.csproj.CopyComplete
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.dll
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\ref\SunshineWax.Data.dll
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.pdb
+C:\Learning Project\Sunshine\SunshineWax\SunshineWax.Data\obj\Debug\net6.0\SunshineWax.Data.genruntimeconfig.cache

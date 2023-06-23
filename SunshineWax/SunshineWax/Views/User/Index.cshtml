@@ -1,0 +1,33 @@
+﻿
+@model User
+<div class="container">
+    <form method="post">
+        <div class="border p-2">
+            <h3 class="text-primary">Sign Up</h3>
+           <div class="p-2">
+               <label>UserName</label>
+               <input asp-for="UserName" class="form-control" />
+           </div>
+           <div class="p-2">
+               <label>Password</label>
+               <input asp-for="Password" class="form-control" />
+           </div>
+           <div class="p-2">
+               <label>Email</label>
+               <input asp-for="Email" class="form-control" />
+           </div>
+           <div class="p-2">
+               <label>Phone</label>
+               <input asp-for="Phone" class="form-control" />
+           </div>
+           <div class="row">
+               <div class="col-6">
+                   <button type="submit" class="btn btn-primary form-control">Sign Up</button>
+               </div>
+               <div class="col-6">
+                   <a asp-controller="User" asp-action="Login" class="btn btn-outline-primary form-control">Log In</a>
+               </div>
+           </div>
+        </div>
+    </form>
+</div>
